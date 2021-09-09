@@ -1,5 +1,5 @@
 <h1 style="text-align: center "> Olá meu nome é Matheus 😁</h1>
-<h2 style="text-align: center "> Sou estudante de Engenharia de Computação e vidrado em aprender novas tecnologias </h2>
+<h2 style="text-align: center "> Sou estudante de Engenharia de Computação e vidrado em aprender novas tecnologias, atualmente estudando desenvolvimento Web com Java </h2>
 
 <div>
 <a href="https://github.com/MatheusReichert/matheusreichert">
