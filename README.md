@@ -7,6 +7,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusReichert&theme=github_dark&font_color=c1cb12)(https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
-<p style="text-align: center "> Contato😁</p>
+<p style="text-align: center "> Contato:</p>
 <a style="text-align: center " href="https://www.linkedin.com/in/matheus-ernan-reichert-6a019520a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
