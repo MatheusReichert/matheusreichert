@@ -9,7 +9,7 @@
 
 <!--START_SECTION:badges-->
   
-![image]({https://www.credly.com/badges/6ba77ea0-99f3-4337-b559-70f69eb7e7a8/public_url})  
+<div>![image]({https://www.credly.com/badges/6ba77ea0-99f3-4337-b559-70f69eb7e7a8/public_url})<div>
   
 <!--END_SECTION:badges-->
   
