@@ -8,6 +8,12 @@
 </div>
   
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6ba77ea0-99f3-4337-b559-70f69eb7e7a8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+<!--START_SECTION:badges-->
+  
+![image]({https://www.credly.com/badges/6ba77ea0-99f3-4337-b559-70f69eb7e7a8/public_url})  
+  
+<!--END_SECTION:badges-->
   
 <br>
 <p style="text-align: center "> Contato:</p>
