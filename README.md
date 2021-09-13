@@ -7,11 +7,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusReichert&theme=github_dark&font_color=c1cb12)(https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
-<!--START_SECTION:badges-->
-  
-<div><img src="{https://www.credly.com/badges/6ba77ea0-99f3-4337-b559-70f69eb7e7a8/public_url}" /><div>
-  
-<!--END_SECTION:badges-->
+
   
 <br>
 <p style="text-align: center "> Contato:</p>
