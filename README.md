@@ -1,5 +1,5 @@
 <h1 style="text-align: center "> Olá meu nome é Matheus 😁</h1>
-<h2 style="text-align: center "> Estou cursando Engenharia de Computação no IFC, sou vidrado em aprender novas tecnologias, atualmente estou estudando Java e participando do MultiStack 2ª edição da TrinaWeb </h2>
+<h2 style="text-align: center "> Estou cursando Engenharia de Computação no IFC, sou vidrado em aprender novas tecnologias, atualmente estou estudando Java </h2>
 
 <div>
 <a href="https://github.com/MatheusReichert/matheusreichert">
