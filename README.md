@@ -1,7 +1,9 @@
 <h1 style="text-align: center "> Olá meu nome é Matheus 😁</h1>
 <h2 style="text-align: center "> Estou cursando Engenharia de Computação no IFC, sou vidrado em aprender novas tecnologias.</h2>
 
-<div style="display: flex, justify-items: center">
+<div style="display: flex;
+  align-items: center;
+  justify-content: center;">
 <a href="https://github.com/MatheusReichert/matheusreichert">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusReichert&count_private=true&show_icons=true&theme=github_dark&icon_color=c1cb12"/>
 </div>
