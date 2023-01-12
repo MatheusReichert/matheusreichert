@@ -23,4 +23,4 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![snake gif](https://github.com/MatheusReichert/matheusreichert/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/MatheusReichert/matheusreichert/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
