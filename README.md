@@ -22,4 +22,3 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![snake gif](https://github.com/MatheusReichert/matheusreichert/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
