@@ -22,8 +22,8 @@ var me = new Developer
     Name        = "Matheus Reichert",
     Education   = "Computer Engineering + MBA in Software Architecture",
     Focus       = ["distributed systems", "high-performance .NET", "cloud-native"],
-    CurrentlyOn = [".NET Aspire", "Kiota", "Orleans", "Kubernetes", "Apache Pulsar"],
-    PastLives   = ["Rust", "Haskell", "embedded C++ (ESP-IDF)", "IoT"],
+    CurrentlyOn = [".NET Aspire", "Kiota", "Kubernetes", "Apache Pulsar"],
+    PastLives   = ["Rust", "Haskell", "ESP-IDF", "IoT"],
     Patent      = "Residential Water Flow Measurement & Control System",
     Mindset     = "if it allocates unnecessarily, it ships never"
 };
@@ -37,15 +37,15 @@ var me = new Developer
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,react&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,azure,java&theme=dark)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=rust,haskell,cpp,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,haskell,cpp,git&theme=dark)](https://skillicons.dev)
 
 </div>
 
 ---
 
-### > featured --projects & stats
+### > stats
 
 <table>
 <tr>
@@ -67,5 +67,13 @@ var me = new Developer
 </td>
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+*"Premature optimization is the root of all evil — but so is unnecessary allocation."*
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
